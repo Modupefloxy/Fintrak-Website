@@ -1,0 +1,27 @@
+body{
+	margin: 0px; padding: 0px;
+}
+header{
+    background-color: #666;
+	height: 70px;
+	width: 1300px;
+}
+img{
+    float:left;
+	width: 150px;
+	 margin-left: 70px;
+     padding: 8px 0px;
+    
+}
+ul li{
+	list-style-type: none;
+	float:left;
+	margin: 5px;
+	text-decoration: none;
+    padding:zzz ;
+}
+li
+	text-decoration:none;
+	color: #fff;
+	margin-right: 40px;
+}
